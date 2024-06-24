@@ -16,7 +16,8 @@ Chromatico is constantly evolving, with new features and improvements being adde
 Your valuable contributions can help make Chromatico even better! 💡✨
 
 
-Acess the Website- click [here](https://chromcolor.vercel.app).
+# Access the website here - <a href="https://chromcolor.vercel.app" style="font-size: 24px;">Chromatico</a>
+
 
 
 ![Chromatico Screenshot](https://raw.githubusercontent.com/dev-shetty/Chromatico/main/public/ChromaticoHome.png)
