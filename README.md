@@ -17,3 +17,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 
 
 Acess the Website- click [here](https://chromcolor.vercel.app).
+
+
+![Chromatico Screenshot](https://raw.githubusercontent.com/dev-shetty/Chromatico/main/public/ChromaticoHome.png)
+
