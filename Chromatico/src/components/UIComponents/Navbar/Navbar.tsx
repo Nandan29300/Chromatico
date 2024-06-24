@@ -116,7 +116,7 @@ function Navbar({ setCopyPalette }: Props) {
             <div className="primary-nav flex w-full justify-between ml-auto mr-8">
               <div className="px-2 flex items-center gap-2 text-xl">
                 <a
-                  href="https://github.com/Deveesh-Shetty/Chromatico"
+                  href="https://github.com/Nandan29300/Chromatico"
                   target="_blank"
                   className="github"
                 >
@@ -129,7 +129,7 @@ function Navbar({ setCopyPalette }: Props) {
                   />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/deveesh-shetty-908539214"
+                  href="https://www.linkedin.com/in/nandan-p-aghera/"
                   target="_blank"
                 >
                   <FaLinkedin
@@ -140,7 +140,7 @@ function Navbar({ setCopyPalette }: Props) {
                     } cursor-pointer`}
                   />
                 </a>
-                <a href="https://twitter.com/shettydeveesh" target="_blank">
+                <a href="https://x.com/agheranandan2" target="_blank">
                   <FaTwitter
                     className={`${
                       route === "/"
