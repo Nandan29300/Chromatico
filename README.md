@@ -36,8 +36,8 @@ Acess the Website- click [here](https://chromcolor.vercel.app).
 * Hosted Using Vercel
 * And a bunch of Colors
 
-* ![React](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) ReactJs with ViteJs and TypeScript
-* ![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg) TailwindCSS
+* ![React](https://camo.githubusercontent.com/3babc94d778f96441b3a66615fb5ee88c6ed04f174ed49b04df92b071a7d0e80/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642) ReactJs with ViteJs and TypeScript
+* ![TailwindCSS](https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.png) TailwindCSS
 * ![React Context API](https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg) React Context API
 * ![LocalStorage](https://upload.wikimedia.org/wikipedia/commons/8/87/Storage-icon.svg) LocalStorage
 * ![Framer Motion](https://cdn.worldvectorlogo.com/logos/framer-motion.svg) Framer Motion
