@@ -23,15 +23,16 @@ Acess the Website- click [here](https://chromcolor.vercel.app).
 
 
 # **Tech Stack**
-This project is built using
 
-*ReactJs with ViteJs and TypeScript
-*TailwindCSS
-*React Context API
-*LocalStorage
-*Framer Motion
-*React Joyride
-*React Icons
-*Hosted Using Vercel
-*And a bunch of Colors
+## Built Using
+
+* ReactJs with ViteJs and TypeScript
+* TailwindCSS
+* React Context API
+* LocalStorage
+* Framer Motion
+* React Joyride
+* React Icons
+* Hosted Using Vercel
+* And a bunch of Colors
 
