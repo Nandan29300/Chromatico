@@ -53,3 +53,30 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <img src="https://camo.githubusercontent.com/410d86e43f847d3f6e3027fa6f0c2fb7641d893fa601d863a943eac968c41890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465" alt="GitHub" style="max-width:100%;" height="50"/>
   <img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code" style="max-width:100%;" height="50"/>
 </p>
+
+# Project Setup
+
+1. Fork and clone the project to your local machine.
+
+2. Open the folder and run (It will install all the dependencies)
+
+### Explanation:
+
+1. **Markdown Section**: 
+   - `# Getting Started`: This is a top-level heading.
+   - The triple backticks (\`\`\`) with `bash` language specifier create a fenced code block for displaying the command (`npm install`).
+
+2. **HTML Section** (within `<div>`):
+   - `<div style="background-color: #f0f0f0; padding: 10px; border-radius: 5px; margin-top: 10px;">`: This `<div>` element is styled to resemble a box with padding, border radius, and a light gray background.
+   - `<code id="npm-install-command" style="background-color: #f0f0f0;">npm install</code>`: This `<code>` tag displays the command (`npm install`) with a background color matching the box.
+   - `<button onclick="copyToClipboard('#npm-install-command')">Copy</button>`: This `<button>` triggers the `copyToClipboard` function defined in the `<script>` section when clicked. It copies the text inside the `<code>` element to the clipboard.
+
+3. **Script Section**:
+   - The `copyToClipboard` function uses JavaScript to copy the text inside the `<code>` element (`npm install`) to the clipboard when the button is clicked. It also displays an alert to indicate successful copying.
+
+### Notes:
+- Ensure that the `<script>` section is included in an environment where JavaScript execution is supported, such as a browser or Markdown renderer that allows HTML and JavaScript.
+- Adjust the styles (`background-color`, `padding`, `border-radius`, etc.) to match your desired visual presentation.
+
+This approach provides a user-friendly way for readers to copy the `npm install` command directly from your `README.md` file.
+
