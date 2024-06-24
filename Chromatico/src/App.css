@@ -1,0 +1,56 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Cursive-Chromatico";
+  src: url("/fonts/AnandaBlackPersonalUseRegular-rg9Rx.ttf");
+}
+
+:root {
+  --primary-100: #ffffff;
+  --primary-900: #000000;
+  --accent-300: #ffd35c;
+  --accent-500: #ffbe0b;
+  --secondary: #fb5607;
+}
+
+html,
+body,
+#root {
+  @apply h-full w-full;
+}
+
+.home-page {
+  overflow: hidden;
+}
+
+.primary-gradient {
+  /* @apply bg-gradient-to-b from-primary-800 via-primary-700 to-primary-400; */
+}
+
+div:has(#Chromatico-logo) > #Chromatico-logo {
+  scale: 1.5;
+  translate: 0 10px;
+}
+
+div:has(#Chromatico-logo):hover > #Chromatico-logo {
+  rotate: -45deg;
+  transform-origin: 15px center;
+  transition: all 1s ease-in-out;
+  scale: 1;
+  translate: 0;
+}
+div:has(#Chromatico-logo):hover > p {
+  @apply opacity-100;
+  transition: all 1s ease-in-out;
+}
+
+kbd {
+  all: unset;
+  @apply bg-gray-600 px-2 py-0.5 rounded-md text-primary-100 shadow-sm shadow-primary-900;
+}
+/* 
+* {
+  outline: 1px solid limegreen;
+} */
