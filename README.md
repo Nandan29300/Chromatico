@@ -67,3 +67,12 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <button onclick="copyToClipboard('npm install')" style="position: absolute; top: 0; right: 0; padding: 2px 4px; font-size: 12px; cursor: pointer;"></button>
 </div>
 
+3. To run the application
+  
+   <div style="position: relative; display: inline-block;">
+  <pre>
+    <code>npm run dev</code>
+  </pre>
+  <button onclick="copyToClipboard('npm run dev')" style="position: absolute; top: 0; right: 0; padding: 2px 4px; font-size: 12px; cursor: pointer;"></button>
+</div>
+
