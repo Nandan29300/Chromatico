@@ -91,6 +91,19 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
 </div>
 
+## To add a new page
+
+<div style="position: relative; display: inline-block; border: 1px solid #ddd; border-radius: 4px; padding: 10px; background-color: #f9f9f9;">
+  <pre style="margin: 0;">
+  <code>
+  |-- src
+      |-- pages
+          |-- &lt;ComponentPage&gt;.tsx
+  </code>
+  </pre>
+  <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
+</div>
+
 
 
 
