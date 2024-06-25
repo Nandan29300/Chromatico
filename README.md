@@ -66,12 +66,4 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   </pre>
   <button onclick="copyToClipboard('npm install')" style="position: absolute; top: 0; right: 0; padding: 2px 8px; font-size: 12px; cursor: pointer;">Copy</button>
 </div>
-<script>
-  function copyToClipboard(text) {
-    navigator.clipboard.writeText(text).then(function() {
-      console.log('Copied to clipboard successfully!');
-    }, function(err) {
-      console.error('Could not copy text: ', err);
-    });
-  }
-</script>
+
