@@ -64,6 +64,6 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <pre>
     <code>npm install</code>
   </pre>
-  <button onclick="copyToClipboard('npm install')" style="position: absolute; top: 0; right: 0; padding: 2px 8px; font-size: 12px; cursor: pointer;">Copy</button>
+  <button onclick="copyToClipboard('npm install')" style="position: absolute; top: 0; right: 0; padding: 2px 4px; font-size: 12px; cursor: pointer;"></button>
 </div>
 
