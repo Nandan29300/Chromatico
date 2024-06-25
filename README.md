@@ -76,3 +76,30 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <button onclick="copyToClipboard('npm run dev')" style="position: relative; top: 0; right: 0; padding: 2px 4px; font-size: 12px; cursor: pointer;"></button>
 </div>
 
+# Folder Structure
+
+## To add new components / features
+
+<div style="position: relative; display: inline-block; border: 1px solid #ddd; border-radius: 4px; padding: 10px; background-color: #f9f9f9;">
+  <pre style="margin: 0;">
+  <code>
+  |-- src
+  |   |-- components
+  |       |-- &lt;Component&gt;.tsx
+  </code>
+  </pre>
+  <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;">Copy</button>
+</div>
+
+<script>
+function copyToClipboard() {
+  var text = "|-- src\n|   |-- components\n|       |-- <Component>.tsx";
+  navigator.clipboard.writeText(text).then(function() {
+    console.log('Copied to clipboard successfully!');
+  }, function(err) {
+    console.error('Could not copy text: ', err);
+  });
+}
+</script>
+
+
