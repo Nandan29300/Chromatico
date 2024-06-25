@@ -60,4 +60,18 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 
 2. Open the folder and run (It will install all the dependencies)
 
-
+<div style="position: relative; display: inline-block;">
+  <pre>
+    <code>npm install</code>
+  </pre>
+  <button onclick="copyToClipboard('npm install')" style="position: absolute; top: 0; right: 0; padding: 2px 8px; font-size: 12px; cursor: pointer;">Copy</button>
+</div>
+<script>
+  function copyToClipboard(text) {
+    navigator.clipboard.writeText(text).then(function() {
+      console.log('Copied to clipboard successfully!');
+    }, function(err) {
+      console.error('Could not copy text: ', err);
+    });
+  }
+</script>
