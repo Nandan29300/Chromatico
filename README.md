@@ -84,8 +84,8 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <pre style="margin: 0;">
   <code>
   |-- src
-  |   |-- components
-  |       |-- &lt;Component&gt;.tsx
+      |-- components
+          |-- &lt;Component&gt;.tsx
   </code>
   </pre>
   <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;">Copy</button>
