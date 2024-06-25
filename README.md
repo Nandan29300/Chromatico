@@ -88,18 +88,9 @@ Your valuable contributions can help make Chromatico even better! 💡✨
           |-- &lt;Component&gt;.tsx
   </code>
   </pre>
-  <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;">Copy</button>
+  <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
 </div>
 
-<script>
-function copyToClipboard() {
-  var text = "|-- src\n|   |-- components\n|       |-- <Component>.tsx";
-  navigator.clipboard.writeText(text).then(function() {
-    console.log('Copied to clipboard successfully!');
-  }, function(err) {
-    console.error('Could not copy text: ', err);
-  });
-}
-</script>
+
 
 
