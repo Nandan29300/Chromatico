@@ -117,5 +117,26 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 </div>
 
 
+# Contribution Guide
+
+1. Fork and Clone the project to your local machine.
+
+2. Follow the steps mentioned in Project Setup
+
+3. Create a new branch and do the required changes, follow the folder structure mentioned here
+
+4. Add, Commit and Push
+
+<div style="position: relative; display: inline-block; border: 1px solid #ddd; border-radius: 4px; padding: 10px; background-color: #f9f9f9;">
+  <pre style="margin: 0;">
+  <code>
+        git add .
+        git commit -m "Commit message"
+        git push origin <branch-name>
+  </code>
+  </pre>
+  <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
+</div>
+
 
 
