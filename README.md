@@ -54,7 +54,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code" style="max-width:100%;" height="50"/>
 </p>
 
-# Project Setup
+# <div id="project-setup">Project Setup</div>
 
 1. Fork and clone the project to your local machine.
 
@@ -75,6 +75,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   </pre>
   <button onclick="copyToClipboard('npm run dev')" style="position: relative; top: 0; right: 0; padding: 2px 4px; font-size: 12px; cursor: pointer;"></button>
 </div>
+
 
 # <div id="folder-structure">Folder Structure</div>
 
@@ -122,7 +123,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 
 1. Fork and Clone the project to your local machine.
 
-2. Follow the steps mentioned in Project Setup
+2. Follow the steps mentioned in <a href="#project-setup" style="font-size: 24px;">Project Setup</a>
 
 3. Create a new branch and do the required changes, follow the folder structure mentioned <a href="#folder-structure" style="font-size: 24px;">here</a>
 
