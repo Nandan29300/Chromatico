@@ -157,7 +157,7 @@ Chromatico is licensed under the terms of the MIT license. See the <a href="http
     <img src="https://avatars.githubusercontent.com/u/116248556?v=4" alt="Your Name" width="100" height="100" style="border-radius:50%;" />
   </a>
   <br />
-  <strong>Nandan</strong>
+  <strong>Nandan P Aghera</strong>
 </div>
 
 
