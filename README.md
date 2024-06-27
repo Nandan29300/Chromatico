@@ -139,9 +139,10 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   </pre>
   <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
 </div>
-          
-5. Create a Pull Request from your forked repo by pressing the Compare and Pull Request button
+
+5. Create a Pull Request from your forked repo by pressing the <span style="position: relative; display: inline-block; background: rgba(255, 255, 255, 0.2); border: 1px solid rgba(255, 255, 255, 0.18); box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); backdrop-filter: blur(5px); -webkit-backdrop-filter: blur(5px); border-radius: 8px; padding: 5px 10px;">Compare and Pull Request</span> button.
 
 6. Thats it! You have contributed to the project 🥳
+
 
 
