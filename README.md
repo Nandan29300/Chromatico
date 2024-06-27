@@ -54,7 +54,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <img src="https://camo.githubusercontent.com/998382ebc9a32162128b00b597ea488192df024fd015e5edec001fe29fcb93a6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465" alt="Visual Studio Code" style="max-width:100%;" height="50"/>
 </p>
 
-# <div id="project-setup">Project Setup</div>
+## <div id="project-setup">Project Setup</div>
 
 1. Fork and clone the project to your local machine.
 
@@ -77,9 +77,9 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 </div>
 
 
-# <div id="folder-structure">Folder Structure</div>
+## <div id="folder-structure">Folder Structure</div>
 
-## To add new components / features
+### To add new components / features
 
 <div style="position: relative; display: inline-block; border: 1px solid #ddd; border-radius: 4px; padding: 10px; background-color: #f9f9f9;">
   <pre style="margin: 0;">
@@ -93,7 +93,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 </div>
 
 
-## To add a new page
+### To add a new page
 
 <div style="position: relative; display: inline-block; border: 1px solid #ddd; border-radius: 4px; padding: 10px; background-color: #f9f9f9;">
   <pre style="margin: 0;">
@@ -106,7 +106,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
 </div>
 
-## To add Global CSS
+### To add Global CSS
 
 <div style="position: relative; display: inline-block; border: 1px solid #ddd; border-radius: 4px; padding: 10px; background-color: #f9f9f9;">
   <pre style="margin: 0;">
@@ -119,7 +119,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 </div>
 
 
-# Contribution Guide
+## Contribution Guide
 
 1. `Fork` and `Clone` the project to your local machine.
 
@@ -154,7 +154,7 @@ Chromatico is licensed under the terms of the MIT license. See the LICENSE File 
 
 <div align="center">
   <a href="https://github.com/Nandan29300/Chromatico/graphs/contributors" target="_blank">
-    <img src="" alt="Your Name" width="100" height="100" style="border-radius:50%;" />
+    <img src="https://avatars.githubusercontent.com/u/116248556?v=4" alt="Your Name" width="100" height="100" style="border-radius:50%;" />
   </a>
   <br />
   <strong>Nandan</strong>
