@@ -147,7 +147,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 
 ## License
 
-Chromatico is licensed under the terms of the MIT license. See the LICENSE File for more information.
+Chromatico is licensed under the terms of the MIT license. See the <a href="https://github.com/Nandan29300/Chromatico/blob/main/Chromatico/LICENSE"> LICENSE File </a> for more information.
 
 
 ## Contributors
