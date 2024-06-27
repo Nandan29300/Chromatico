@@ -145,21 +145,19 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 6. Thats it! You have contributed to the project 🥳
 
 
-# License
+## License
 
 Chromatico is licensed under the terms of the MIT license. See the LICENSE File for more information.
 
 
-# Contributors
-
-# Contributors
+## Contributors
 
 <div align="center">
-  <a href="" target="_blank">
-    <img src="https://media.licdn.com/dms/image/C4D03AQFQbHhcT0jdoQ/profile-displayphoto-shrink_800_800/0/1517047293123?e=2147483647&v=beta&t=1Jl2WTZ3V4s0t2OjPEgyH5Z2i4cK7b3Q6qlBriY9yyg" alt="Your Name" width="100" height="100" style="border-radius:50%;" />
+  <a href="https://github.com/Nandan29300/Chromatico/graphs/contributors" target="_blank">
+    <img src="" alt="Your Name" width="100" height="100" style="border-radius:50%;" />
   </a>
   <br />
-  <strong>Your Name</strong>
+  <strong>Nandan</strong>
 </div>
 
 
