@@ -123,7 +123,7 @@ Your valuable contributions can help make Chromatico even better! 💡✨
 
 2. Follow the steps mentioned in Project Setup
 
-3. Create a new branch and do the required changes, follow the folder structure mentioned here
+3. Create a new branch and do the required changes, follow the folder structure mentioned # <a href="# Folder Structure" style="font-size: 24px;">here</a>
 
 4. Add, Commit and Push
 
@@ -137,6 +137,9 @@ Your valuable contributions can help make Chromatico even better! 💡✨
   </pre>
   <button onclick="copyToClipboard()" style="position: absolute; top: 10px; right: 10px; padding: 2px 8px; font-size: 12px; cursor: pointer; border: none; background-color: #007bff; color: white; border-radius: 3px;"></button>
 </div>
+          
+5. Create a Pull Request from your forked repo by pressing the Compare and Pull Request button
 
+6. Thats it! You have contributed to the project 🥳
 
 
